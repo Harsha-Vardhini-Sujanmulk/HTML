@@ -1,0 +1,45 @@
+/* .red {
+	height: 100px;
+	width: 100px;
+	background-color: red;
+	position: relative;
+	display: inline-block;
+}
+.blue {
+	height: 100px;
+	width: 100px;
+	background-color: blue;
+	position: relative;
+	display: inline-block;
+}
+.yellow {
+	height: 100px;
+	width: 100px;
+	background-color: yellow;
+	position: relative;
+	display: inline-block;
+} */
+.red {
+	height: 100px;
+	width: 100px;
+	background-color: red;
+	position: relative;
+	left: 200px;
+	display: inline-block;
+}
+.blue {
+	height: 100px;
+	width: 100px;
+	background-color: blue;
+	position: relative;
+	right: 100px;
+	display: inline-block;
+}
+.yellow {
+	height: 100px;
+	width: 100px;
+	background-color: yellow;
+	position: relative;
+	right: 100px;
+	display: inline-block;
+}

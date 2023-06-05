@@ -1,0 +1,23 @@
+.a {
+	border: solid 5px;
+	background-color: #e1ffb1;
+	padding: 10px;
+	height: 200px;
+	width: 200px;
+}
+.middle {
+	border: solid 5px;
+	margin-left: 230px;
+	background-color: #e1ffb1;
+	padding: 10px;
+	height: 200px;
+	width: 200px;
+}
+.top {
+	border: solid 10px;
+	margin-left: 460px;
+	background-color: pink;
+	padding: 10px;
+	height: 200px;
+	width: 200px;
+}
